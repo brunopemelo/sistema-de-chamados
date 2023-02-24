@@ -15,6 +15,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 -   [React](https://pt-br.reactjs.org/)
 -   [Firebase](https://firebase.google.com/?hl=pt)<br><br>
 
+![Tela de login](./src/assets/Login.png)
+
+![Tela de registro](./src/assets/Registro.png)
+
+![Tela inicial da dashboard](./src/assets/Dashboard.png)
+
 ### 😎 Publicado no Netlify
 
 ---
